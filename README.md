@@ -9,3 +9,5 @@ additional test 24101201
 
 add update-tag.sh
 
+add try to update tag atomically.
+
